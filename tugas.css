@@ -1,0 +1,27 @@
+body {
+    font-family: cursive;
+    padding-bottom: 20%;
+}
+
+hr {
+    padding: 1px;
+    background-color: black;
+}
+
+table {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+}
+
+th {
+    font-size: 20px;
+}
+
+.clrA {
+    background-color: yellow;
+}
+
+.clrB {
+    background-color: lime;
+}
